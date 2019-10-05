@@ -238,10 +238,12 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: transparent;
+        /*background-color: transparent;*/
+        background-color: #003976!important;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
+        border-bottom: 5px solid #efab00;
     }
 
     .navbar-default .navbar-brand {
@@ -257,7 +259,8 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        /*background-color: #222;*/
+        background-color: #003976!important;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -269,7 +272,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/landingpage.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -724,11 +727,14 @@ section#contact .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
+    border-top: 5px solid #efab00;
+    background-color: #003976;
 }
 
 footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
+    color: #FFF;
     font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
 }

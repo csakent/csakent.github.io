@@ -1,0 +1,14 @@
+---
+layout: default
+alt: image-alt
+
+modal-id: 3
+title: 2019中秋游园大回顾
+ac-date: 2019-09-27
+
+img: 2019-09-27.jpeg
+
+link: https://mp.weixin.qq.com/s/UErnQxO30lDLt3JycCwdvA
+description: 【活动回顾】2019年肯特州立中国学生会中秋游园大回顾
+
+---

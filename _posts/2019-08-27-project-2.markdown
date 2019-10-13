@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 2
+alt: image-alt
+
+
+title: 肯特州立中国学生会新生见面会
+ac-date: 2019-08-27
+
+img: 2019-08-27.jpeg
+
+link: https://mp.weixin.qq.com/s/tgLMT0YkJoILbS2e-BNDaQ
+description: 肯特州立中国学生会新生见面会内容回顾
+
+---

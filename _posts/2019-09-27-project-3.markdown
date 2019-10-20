@@ -3,12 +3,12 @@ layout: default
 alt: image-alt
 
 modal-id: 3
-title: 2019中秋游园大回顾
-ac-date: 2019-09-27
+title: 2019春节联欢晚会
+ac-date: 2019-02-15
 
-img: 2019-09-27.jpeg
+img: 2019-02-15.jpeg
 
-link: https://mp.weixin.qq.com/s/UErnQxO30lDLt3JycCwdvA
-description: 【活动回顾】2019年肯特州立中国学生会中秋游园大回顾
+link: https://mp.weixin.qq.com/s/81tRwD5iCLPUqG09nmDXug
+description: 【活动回顾】肯特州立大学2019春节联欢晚会
 
 ---

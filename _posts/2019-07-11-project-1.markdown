@@ -3,12 +3,12 @@ layout: default
 alt: image-alt
 
 modal-id: 1
-title: 线上行前说明会
-ac-date: 2019-07-11
+title: 2019新生见面会
+ac-date: 2019-07-31
 
-img: 2019-07-11.jpeg
+img: 2019-07-31.jpeg
 
-link: https://mp.weixin.qq.com/s/UErnQxO30lDLt3JycCwdvA
-description: 你是否对即将开始的大学生活充满期待？你是否了解赴美的签证指南？你想了解更多的接机信息？你对入学前的手续不太确定？
+link: https://mp.weixin.qq.com/s/Vs7Rye3tg8bgw9tYsajypQ
+description: 初来美国的同学可能会因远离家人和曾经的朋友而伤感；已来到美国就学的同学则会思考如何适应新的环境，结识新的朋友，都是未知的开始。请不要害怕，也无需忧虑，肯特州立大学中国学生会将以新生见面会的方式，与带着求知欲的各位相聚一堂
 
 ---

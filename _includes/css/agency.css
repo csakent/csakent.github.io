@@ -662,9 +662,10 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/zhongqiuhezhao1469x720.jpg');
+    background-image: url('{{ site.baseurl }}/img/allmembers_1500x400.jpg');
     background-position: center;
     background-repeat: no-repeat;
+    background-size: contain;
 }
 
 section#contact .section-heading {
@@ -685,7 +686,7 @@ section#contact .form-group input.form-control {
 }
 
 section#contact .form-group textarea.form-control {
-    height: 236px;
+    /*height: 236px;*/
 }
 
 section#contact .form-control:focus {

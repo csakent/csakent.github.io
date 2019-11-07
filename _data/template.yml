@@ -9,4 +9,4 @@ color:
 # Font Families
 font:
   primary: 'Montserrat,"Microsoft YaHei", "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: '"Droid Serif","Microsoft YaHei", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  secondary: '"Montserrat","Microsoft YaHei", "Helvetica Neue", Helvetica,Arial,sans-serif'

@@ -9,12 +9,12 @@
             </div>
             <div class="row">
                 {% for member in site.people %}
-                <div class="col-sm-4">
+                <!-- <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive" alt="">
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
-                        <!-- <ul class="list-inline social-buttons">
+                        <ul class="list-inline social-buttons">
                             {% for network in member.social %}
                             <li>
                                 <a href="{{ network.url }}">
@@ -22,11 +22,36 @@
                                 </a>
                             </li>
                             {% endfor %}
+                        </ul>
+                    </div>
+                </div> -->
+                {% endfor %}
 
-                        </ul> -->
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/gongzhonghao.jpg" class="img-responsive" alt="">
+                        <h4>微信公众号</h4>
+                        <p class="text-muted">CSAKentState</p>
                     </div>
                 </div>
-                {% endfor %}
+                <div class="col-sm-4">
+                    <a href="https://www.facebook.com/CSAKentState/" target="_blank">
+                        <div class="team-member">
+                            <img src="img/team/facebooklogo.jpg" class="img-responsive" alt="">
+                            <h4>Facebook主页</h4>
+                            <p class="text-muted">@CSAKentState</p>
+                        </div>
+                    </a>
+                    
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/xiaochengxu.jpg" class="img-responsive" alt="">
+                        <h4>微信小程序</h4>
+                        <p class="text-muted">肯特州立大学学生会</p>
+                    </div>
+                </div>
+
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
